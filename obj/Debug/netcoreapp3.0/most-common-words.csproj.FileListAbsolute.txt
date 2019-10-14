@@ -1,0 +1,11 @@
+/Users/maggie/workspace/csharp/exercises/most-common-words/obj/Debug/netcoreapp3.0/most-common-words.csprojAssemblyReference.cache
+/Users/maggie/workspace/csharp/exercises/most-common-words/obj/Debug/netcoreapp3.0/most-common-words.AssemblyInfoInputs.cache
+/Users/maggie/workspace/csharp/exercises/most-common-words/obj/Debug/netcoreapp3.0/most-common-words.AssemblyInfo.cs
+/Users/maggie/workspace/csharp/exercises/most-common-words/bin/Debug/netcoreapp3.0/most-common-words
+/Users/maggie/workspace/csharp/exercises/most-common-words/bin/Debug/netcoreapp3.0/most-common-words.deps.json
+/Users/maggie/workspace/csharp/exercises/most-common-words/bin/Debug/netcoreapp3.0/most-common-words.runtimeconfig.json
+/Users/maggie/workspace/csharp/exercises/most-common-words/bin/Debug/netcoreapp3.0/most-common-words.runtimeconfig.dev.json
+/Users/maggie/workspace/csharp/exercises/most-common-words/bin/Debug/netcoreapp3.0/most-common-words.dll
+/Users/maggie/workspace/csharp/exercises/most-common-words/bin/Debug/netcoreapp3.0/most-common-words.pdb
+/Users/maggie/workspace/csharp/exercises/most-common-words/obj/Debug/netcoreapp3.0/most-common-words.dll
+/Users/maggie/workspace/csharp/exercises/most-common-words/obj/Debug/netcoreapp3.0/most-common-words.pdb
